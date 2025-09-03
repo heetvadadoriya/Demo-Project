@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 That day was good
+=======
+This is my branch code
+>>>>>>> b1
